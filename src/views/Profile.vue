@@ -104,7 +104,7 @@
 
                       <div class="alert">
                         <div class="container">
-                          <b>Toolyt</b>, Kannur, Kerala, India<br>
+                          <b>Toolyt</b>, Bangalore, Karnataka, India<br>
                           <span>Full Stack Developer</span>
                           <p>March 2021 - Present</p>
                         </div>
